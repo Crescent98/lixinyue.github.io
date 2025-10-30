@@ -228,4 +228,4 @@ Works on all modern browsers:
 
 ## License
 
-Feel free to use this template for your personal website!
+Feel free to use this template for your personal website.
