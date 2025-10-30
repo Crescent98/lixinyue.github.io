@@ -1,0 +1,285 @@
+{
+  "navBrand": "Xinyue Li's Homepage",
+  "name": "Xinyue Li 李新玥",
+  "title": "Research Associate at CGS",
+  "profilePhoto": "head_photo.png",
+  "about": [
+    "Hi there! I'm <strong><em>Xinyue</em></strong>, a climate policy researcher by day, diver and traveler by heart, and proud cat mom to <strong><em>Doctor Liuliu</em></strong>.",
+    "I spend most of my time exploring how countries like China can build a cleaner, fairer energy future, and how data, policy, and imagination can actually work together. When I'm not deep in spreadsheets or writing reports, you'll probably find me chasing sunshine, wandering new cities, or floating somewhere under the sea.",
+    "I believe in curiosity, kindness, and doing meaningful work, and in always saving time for good boba, good buddies, and the next adventure."
+  ],
+  "social": [
+    {
+      "platform": "github",
+      "url": "https://github.com/Crescent98",
+      "icon": "fab fa-github"
+    },
+    {
+      "platform": "linkedin",
+      "url": "https://www.linkedin.com/in/xinyue-li-19980430y/",
+      "icon": "fab fa-linkedin"
+    },
+    {
+      "platform": "portfolio",
+      "url": "https://spp.umd.edu/our-community/faculty-staff/xinyue-li",
+      "icon": "fas fa-university"
+    },
+    {
+      "platform": "email",
+      "url": "mailto:lixinyue_98@163.com",
+      "icon": "fas fa-envelope"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master in Public Policy",
+      "institution": "University of Chicago",
+      "date": "2021-2023",
+      "description": "Staff Writer at The Chicago Policy Review"
+    },
+    {
+      "degree": "Bachelor of Laws - LLB, International Politics",
+      "institution": "University of International Business and Economics",
+      "date": "2017-2021",
+      "description": "Vice President of Global Governance Association"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Research Associate",
+      "company": "Center for Global Sustainability, College Park, MD",
+      "date": "November 2023 - Present",
+      "description": [
+        "Co-led and co-authored a multi-model report on national decarbonization pathways and investment needs, coordinating with 10 modeling teams across global regions",
+        "Led a policy brief on major national climate policy shifts, managing from data collection through publication",
+        "Developed GCAM model add-on files for bottom-up analysis of country-specific decarbonization pathways",
+        "Set up historical data inventory from official government sources into analysis-ready datasets for model base-year calibration and policy-relevant insights",
+        "Managed scenario alignment and results validation for a global country ambition project, covering analysis on 12 countries' NDC targets and emission trajectories"
+      ]
+    },
+    {
+      "title": "Natural Climate Solutions Assistant",
+      "company": "The Nature Conservancy, Arlington, VA",
+      "date": "July 2023 - September 2023",
+      "description": [
+        "Provided background research support for Senior Conservation Scientist on distributed solar priorities, analyzing and synthesizing key research and report to inform TNC's planning in VA distributed solar",
+        "Organized and attended stakeholder outreach with cross-functional teams, including TNC partners, VA state government representatives, compiling notes, and identifying key points and action items for the team's advocacy efforts"
+      ]
+    },
+    {
+      "title": "Environment Affairs Intern",
+      "company": "UN ESCAP, Incheon, Republic of Korea",
+      "date": "June 2022 - September 2022",
+      "description": [
+        "Identified and analyzed priorities within Northeast Asia MPA network (NEAMPAN) in terms of climate resilience and adaptation",
+        "Researched independently about climate impacts on oceans, and financial models in NEAMPAN through best practices case study",
+        "Monitored and reported on project progress of NEAMPAN projects, collecting information and feedback from local stakeholders"
+      ]
+    },
+    {
+      "title": "Biodiversity Finance Intern",
+      "company": "Greenovation Hub, Beijing, China",
+      "date": "November 2021 - June 2022",
+      "description": [
+        "Drafted background analysis about China-ASEAN trade and investment, identifying key industries and its emerging trends that impacts climate and nature based on country reporting",
+        "Drafted proposals for the private sector in terms of climate- and nature-focused risk management and corporate activities among China-ASEAN trade and investment",
+        "Worked in delegation group to COP15, representing Greenovation Hub while interacting diverse coalition partners and media contacts"
+      ]
+    },
+    {
+      "title": "Climate Change Research Intern",
+      "company": "World Resources Institute (WRI), Beijing, China",
+      "date": "April 2019 - July 2019",
+      "description": [
+        "Assisted in climate performance evaluation in Zhejiang Province and the Yangtze River Delta, the pilot areas in China's green economy",
+        "Drafted agenda for Green Sub-Forum of the 2019 Belt & Road Forum for International Cooperation"
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "title": "Achieving a High Ambition Pathway through Enhanced Subnational Climate Action in Mexico",
+      "authors": "M. Borrero, R. Cui, J. Behrendt, C. Bertram, A. Kreis, D. Churlyaev, J. Lou, K. O'Keefe, <strong><em>X. Li</em></strong>, M. Syed, L. Pesqueira, J. Tovilla, D. Buira, T. Hernandez, N. Hultman",
+      "venue": "Center for Global Sustainability, College Park (September 2025)",
+      "links": [
+        {
+          "text": "PDF",
+          "url": "https://cgs.umd.edu/sites/default/files/2025-10/CGS%20report_Achieving%20a%20High%20Ambition%20Pathway%20with%20Enhanced%20Subnational%20Climate%20Action%20in%20Mexico.pdf"
+        }
+      ]
+    },
+    {
+      "title": "High Ambition pathways for Indonesia's 2035 NDC and net-zero emissions",
+      "authors": "R. Cui, J. Lou, M. Borrero, J. Behrendt, <strong><em>X. Li</em></strong>, A. Rader, M. Schreier, C. Squire, T. Tibebu, C. Bertram, A. Miller, D. Churlyaev, and N. Hultman",
+      "venue": "Center for Global Sustainability, College Park (September 2025)",
+      "links": [
+        {
+          "text": "PDF",
+          "url": "https://cgs.umd.edu/sites/default/files/2025-09/Indonesia%20paper-v6.pdf"
+        }
+      ]
+    },
+    {
+      "title": "CGS Country Climate Ambition Website",
+      "authors": "Center for Global Sustainability",
+      "venue": "2025",
+      "links": [
+        {
+          "text": "Website",
+          "url": "https://prod-cgs.oslabs.app/"
+        }
+      ]
+    },
+    {
+      "title": "Enhancing Global Ambition for 2035: Assessment of High-Ambition Country Pathways",
+      "authors": "R. Cui, M.A. Borrero, C. Bertram, J. Behrendt, A. Rader, M. George, D. Churlyaev, A. Kreis, J. Lou, X. Fu, A. Miller, T.B. Tibebu, K. O'Keefe, M. Zhu, <strong><em>X. Li</em></strong>, C. Squire, A. Zhao, J. Snarski, B. Buddi, N. Hultman",
+      "venue": "Center for Global Sustainability, University of Maryland (2024)",
+      "links": [
+        {
+          "text": "PDF",
+          "url": "https://cgs.umd.edu/sites/default/files/2024-12/CGS%20report_Enhancing%20Global%20Ambition%20for%202035-%20Assessment%20of%20High-Ambition%20Country%20Pathways.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Climate Transition in the Context of Biodiversity Conservation",
+      "authors": "<strong><em>X. Li</em></strong>",
+      "venue": "Chicago Policy Review (April 10, 2023)",
+      "links": [
+        {
+          "text": "Article",
+          "url": "https://chicagopolicyreview.org/2023/04/10/climate-transition-in-the-context-of-biodiversity-conservation/"
+        }
+      ]
+    },
+    {
+      "title": "UN Ocean Conference: It's the best and last opportunity for us to take action",
+      "authors": "<strong><em>X. Li</em></strong>",
+      "venue": "Chicago Policy Review (Aug 24, 2022)",
+      "links": [
+        {
+          "text": "Article",
+          "url": "https://chicagopolicyreview.org/2022/08/24/un-ocean-conference-its-the-best-and-last-opportunity-for-us-to-take-action/"
+        }
+      ]
+    },
+    {
+      "title": "China is working on green recovery through New Infrastructure Policies",
+      "authors": "<strong><em>X. Li</em></strong>",
+      "venue": "Chicago Policy Review (March 22, 2022)",
+      "links": [
+        {
+          "text": "Article",
+          "url": "https://chicagopolicyreview.org/2022/03/24/china-is-working-on-green-recovery-through-new-infrastructure-policies/"
+        }
+      ]
+    },
+    {
+      "title": "In the Works",
+      "authors": "<strong><em>X. Li</em></strong>",
+      "venue": "China Daily (February 25, 2021)",
+      "links": [
+        {
+          "text": "Article",
+          "url": "http://www.chinadaily.com.cn/a/202102/26/WS60383b89a31024ad0baab277.html"
+        }
+      ]
+    }
+  ],
+  "conferences": [
+    {
+      "title": "A multi-model analysis of China's investment needs towards carbon neutrality",
+      "venue": "17th IAMC (Integrated Assessment Modeling Consortium) Annual Meeting",
+      "year": "2024"
+    }
+  ],
+  "awards": [
+    {
+      "title": "James Bartlett Fellowship",
+      "issuer": "Energy Policy Institute at the University of Chicago",
+      "year": "2022"
+    }
+  ],
+  "album": {
+    "title": "My Life Adventures with Doctor Liuliu",
+    "description": "Some precious moments with my beloved cat, Doctor Liuliu, and my adventures around the world",
+    "photos": [
+      {
+        "src": "liuliu1.jpg",
+        "caption": "Doctor Liuliu",
+        "alt": "Doctor Liuliu"
+      },
+      {
+        "src": "Liuliu_in_a_tube.jpg",
+        "caption": "Liuliu in a tube",
+        "alt": "Doctor Liuliu in a tube"
+      },
+      {
+        "src": "Liuliu_on_the_edge.jpg",
+        "caption": "Liuliu on the edge",
+        "alt": "Doctor Liuliu on the edge"
+      },
+      {
+        "src": "Liuliu_under_the_sun.jpg",
+        "caption": "Liuliu under the sun",
+        "alt": "Doctor Liuliu under the sun"
+      },
+      {
+        "src": "Happy.jpg",
+        "caption": "Happy moment",
+        "alt": "Happy moment"
+      },
+      {
+        "src": "diving.jpg",
+        "caption": "Diving adventure",
+        "alt": "Diving"
+      },
+      {
+        "src": "Me_at_Bahamas.jpg",
+        "caption": "At the Bahamas",
+        "alt": "Me at Bahamas"
+      },
+      {
+        "src": "Sakura_Season.jpg",
+        "caption": "Sakura season",
+        "alt": "Sakura season"
+      },
+      {
+        "src": "Graduating_from_Uchicago.jpg",
+        "caption": "Graduating from UChicago",
+        "alt": "Graduation from University of Chicago"
+      },
+      {
+        "src": "Me_at_IAMC.jpg",
+        "caption": "At IAMC conference",
+        "alt": "Me at IAMC conference"
+      },
+      {
+        "src": "Me_with_panda_experts.jpg",
+        "caption": "With panda experts",
+        "alt": "Me with panda experts"
+      },
+      {
+        "src": "Me_at_Chicago.jpg",
+        "caption": "In Chicago",
+        "alt": "Me at Chicago"
+      },
+      {
+        "src": "Me_at_Corp15.jpg",
+        "caption": "At COP15",
+        "alt": "Me at COP15"
+      },
+      {
+        "src": "Me_with_Hogwarts_train.jpg",
+        "caption": "With the Hogwarts train",
+        "alt": "Me with Hogwarts train"
+      }
+    ]
+  },
+  "contact": {
+    "email": "your.email@example.com",
+    "location": "City, Country",
+    "phone": "+1 (234) 567-8900"
+  },
+  "footer": "© 2025 <strong><em>Xinyue Li</em></strong>. All rights reserved."
+}
